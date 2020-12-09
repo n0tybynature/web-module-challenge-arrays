@@ -147,8 +147,8 @@ Use the removeFlavorByName function below to do the following:
 */
 
 function removeFlavorByName(originalFlavors){
-    originalFlavors.splice(27, 1);
-    return originalFlavors;
+   originalFlavors.splice(29,1);
+   return originalFlavors;
 }
 
 
